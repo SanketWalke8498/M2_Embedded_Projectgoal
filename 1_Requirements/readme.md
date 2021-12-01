@@ -1,10 +1,9 @@
-# _Door Senser_
+# _Calculator_
 ## Badges
 Code Inspector-   ![](https://api.codiga.io/project/29841/score/svg)
 ![](https://api.codiga.io/project/29841/status/svg)
 ## Introduction
-Door sensor are essential now a days for the safety purpose and for the safety
-of your belongings or essentials in the home.
+Calculator
  
  | # SWOT Analysis  |
 |--- |
@@ -16,3 +15,4 @@ of your belongings or essentials in the home.
 |   |
 | Threats  |
 |   |
+ 
