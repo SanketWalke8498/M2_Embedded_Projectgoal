@@ -7,9 +7,9 @@ Calculator, In this project the designed embedded system has been created.The ci
 using Atmega328p microcontroller.In this project calculator has been made to perform addition, substraction, multiplication and division.
 
 ## Features
--  It is easier to get calculation in this project .
--  The expressions used are for addition "+",substraction "-",multiplication "*",and division "/" .
--  LCD display will show you the calculations done by you .
+-   It is easier to get calculation in this project .
+-   The expressions used are for addition "+",substraction "-",multiplication "*",and division "/" .
+-   LCD display will show you the calculations done by you .
  
  ## Details Requirements
 ### High Level Requirements
