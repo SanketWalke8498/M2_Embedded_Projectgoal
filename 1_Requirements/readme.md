@@ -1,7 +1,5 @@
 # _Calculator_
-## Badges
-Code Inspector-   ![](https://api.codiga.io/project/29841/score/svg)
-![](https://api.codiga.io/project/29841/status/svg)
+
 ## Introduction
 Calculator, In this project the designed embedded system has been created.The circuit had being developed on simulIDE software platform by 
 using Atmega328p microcontroller.In this project calculator has been made to perform addition, substraction, multiplication and division.
