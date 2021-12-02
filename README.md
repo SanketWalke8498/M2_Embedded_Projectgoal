@@ -15,3 +15,7 @@ Codacy-     [![Codacy Badge](https://app.codacy.com/project/badge/Grade/34e3f042
 | 4_Test Plan and Output | Required test plans and outputs |
 | 5_Report | Generated Report |
 | 6_ImagesandVideos | Images and Videos of the Project Implementation |
+
+Simulation Output
+
+![2021-12-02](https://user-images.githubusercontent.com/94234340/144295362-72af490b-32e7-49f1-94f8-1f27a9cc6eb3.png)
