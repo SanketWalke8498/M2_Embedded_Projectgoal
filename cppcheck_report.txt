@@ -1,0 +1,5 @@
+3_Implementation/src/Calculator.c:111:59: error: Unmatched '{'. Configuration: ''. [syntaxError]
+uint16_t do_math(uint16_t num_1,uint16_t num_2,uint8_t op){
+                                                          ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
